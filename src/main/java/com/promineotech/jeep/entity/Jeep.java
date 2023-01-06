@@ -12,6 +12,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 
 
+
 public class Jeep {
 
   private Long modelPk;
